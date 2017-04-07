@@ -1,11 +1,11 @@
 {
-  "name": "Freija",
-  "description": "Power-Up para Trello",
-  "details": "Power-Up para Trello 2",
+  "name": "Static Template",
+  "description": "",
+  "details": "A static sample Power-Up hosted on GitHub pages. Feel free to fork [this repository](https://github.com/trello/power-up-template) as a starting point for your own Power-Up.",
   "icon": {
     "url": "./images/logo.png"
   },
-  "author": "Moon Antonio",
+  "author": "Trello Inc",
   "capabilities": [
     "attachment-sections",
     "attachment-thumbnail",
