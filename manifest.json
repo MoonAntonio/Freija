@@ -1,0 +1,16 @@
+{
+  "name": "Freija Alpha",
+  "details": "Power-Up para comprobar el potencial en trello.",
+  "icon": {
+    "url": "./imag/icon.png"
+  },
+  "author": "Moon Antonio",
+  "capabilities": [
+    "board-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./"
+    }
+  }
+}
