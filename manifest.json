@@ -1,26 +1,16 @@
 {
-  "name": "Freija Alpha",           // Nombre del power-up
+  "name": "Freija Alpha",
   "details": "Power-Up para comprobar el potencial en trello.",
   "icon": {
-    "url": "./img/logo.png"         // Ruta del icono
+    "url": "./img/logo.png"
   },
-  "author": "Moon Antonio",         // Desarrollador
+  "author": "Moon Antonio",
   "capabilities": [
-    "board-buttons"                // Permite agregar uno o mas botones al board en la parte superior derecha de la pantalla
-    //"card-badges",                  // Permite agregar tarjetas de identificacion para la parte frontal de las tarjetas
-    //"card-detail-badges",           // Permite agregar insignias en la parte posterior de las tarjetas
-    //"attachment-sections",          // Permite agregar secciones a la parte posterior de una tarjeta
-    //"attachment-thumbnail",         // Permite mejorar la vista previa fijacion en la parte posterior de una tarjeta
-    //"card-buttons",                 // Permite agregar uno o más botones en la parte posterior de las tarjetas
-    //"format-url",                   // Hacer URL mas agradable y mas facil de entender mediante la sustitucion de la URL en bruto con un icono y el texto
-    //"card-from-url",                // Establecer el nombre y la descripcion de la tarjeta basada en la URL
-    //"show-settings",                // Permite tener un boton de marcha en la barra de menu para la configuracion de su Power-Up
-    //"authorization-status",         // Permite determinar si un usuario ha autorizado con su Power-Up todavia
-    //"show-authorization"            // Permite controlar que hacer cuando un usuario hace clic en el enlace 'Cuenta Autorizar' desde el icono Power-Up
+    "board-buttons"
   ],
   "connectors": {
     "iframe": {
-      "url": "./index.html"         // Conector con la funcionalidad
+      "url": "./index.html"
     }
   }
 }
