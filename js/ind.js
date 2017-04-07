@@ -161,7 +161,7 @@ TrelloPowerUp.initialize(
       return [];
     }
   },*/
-  'attachment-thumbnail': function(t, options)
+  /*'attachment-thumbnail': function(t, options)
   {
     var parkName = formatNPSUrl(t, options.url);
     if(parkName){
@@ -182,7 +182,7 @@ TrelloPowerUp.initialize(
     {
       throw t.NotHandled();
     }
-  },
+  },*/
   'board-buttons': function(t, options)
   {
     return [
