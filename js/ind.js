@@ -1,5 +1,8 @@
-var WHITE_ICON = './img/icon-white.svg';
-var GRAY_ICON = './img/icon-gray.svg';
+//var WHITE_ICON = './img/icon-white.svg';
+//var GRAY_ICON = './img/icon-gray.svg';
+
+var WHITE_ICON = './img/logo.png';
+var GRAY_ICON = './img/logo.png';
 
 /*var getBadges = function(t){
   return t.card('name')
