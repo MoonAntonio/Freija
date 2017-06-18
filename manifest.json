@@ -1,0 +1,22 @@
+{
+  "name": "Freija",
+  "description": "",
+  "details": "Add points to cards!",
+  "icon": {
+    "url": "./images/logo.png"
+  },
+  "author": "Moon Antonio",
+  "capabilities": [
+    "callback",
+    "card-badges",
+    "card-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  },
+  "recommend": {
+    "urls": []
+  }
+}
